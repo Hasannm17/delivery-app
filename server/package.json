@@ -10,6 +10,8 @@
     "build": "sanity build",
     "deploy": "sanity deploy",
     "deploy-graphql": "sanity graphql deploy"
+
+    
   },
   "keywords": [
     "sanity"
